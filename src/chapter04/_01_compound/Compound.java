@@ -1,4 +1,4 @@
-package chapter4._01_compound;
+package chapter04._01_compound;
 
 public class Compound {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chapter4._02_getif;
+package chapter04._02_getif;
 
 public class Getif {
     public static void main(String[] args) {
